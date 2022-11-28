@@ -1,4 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Anek+Devanagari&display=swap");
+
 .App {
+  font-family: "Anek Devanagari", sans-serif;
   text-align: center;
 }
 
