@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { BiWorld } from "react-icons/bi";
 import { MdLocationOn } from "react-icons/md";
-
+//Stylings
 export const OuterContainer = styled.div`
   display: flex;
   width: 40%;

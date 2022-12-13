@@ -23,6 +23,7 @@ function App() {
           <WorldIcon />
           <h1>my travel journal.</h1>
         </StyledH1Div>
+        {/* Displays items from array */}
         {kahntent.map((item, index) => {
           return (
             <OuterContainer key={index}>

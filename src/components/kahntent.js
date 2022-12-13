@@ -1,7 +1,7 @@
 import hue from "../image/hue.avif";
 import leonardo from "../image/leonardo.avif";
 import guaco from "../image/guaco.avif";
-
+//Array for items
 export const kahntent = [
   {
     title: "São Paulo",
